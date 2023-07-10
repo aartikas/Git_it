@@ -1,1 +1,3 @@
 Checkout in the apps mode
+favs_movie
+
